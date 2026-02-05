@@ -100,7 +100,7 @@ git status \
 If not: \
 git checkout main
 
-2. Create a new branch called `typo-fix`: \
+2. Create a new branch titled `typo-fix`: \
 git checkout -b typo-fix
 
 3. Find **any typo or wording you think could be improved** in this README and fix it.
@@ -110,8 +110,8 @@ git add README.md OR git add . \
 git commit -m "Fix typo in README" \
 git push -u origin typo-fix
 
-5. On GitHub, open a pull request **from `typo-fix` to `main` within your fork**.  \
-Do **not** include my repository in this pull request.
+5. On GitHub, open a pull request from `typo-fix` to `main` within your fork.  \
+Do NOT include my repository in this pull request.
 
 6. Merge the pull request.
 
